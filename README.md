@@ -20,7 +20,7 @@ To use this repository, you need the following installed locally:
 - [Hugo (Extended version)](https://gohugo.io/)
 - A container runtime, like [Docker](https://www.docker.com/).
 
-Before you start, install the dependencies. Clone the repository and navigate to the directory:
+Before you start, install the dependencies. Please clone the repository and navigate to the directory:
 
 ```bash
 git clone https://github.com/kubernetes/website.git
